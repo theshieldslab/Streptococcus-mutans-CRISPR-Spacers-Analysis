@@ -7,4 +7,4 @@ phage_output.xlsx: S. mutans CRISPR spacer alignments to phage genomes\
 plasmids_output.xlsx: S. mutans CRISPR spacer alignments to plasmid sequences\
 ICE_output.xlsx: S. mutans CRISPR spacer alignments to integrative and conjugative element sequences\
 smutans_targets.xlsx: CRISPR spacers that align to S. mutans genes\
-gene_presence_absence_plus.xlsx: pangenome analysis of S. mutans genomes\
+gene_presence_absence_plus.xlsx: pangenome analysis of S. mutans genomes
